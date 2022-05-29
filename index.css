@@ -5,20 +5,20 @@ ul{margin-top: 7.5px;}
 
 .skill-bars {
   list-style: none;
-  margin: 3rem 0 1rem;
+  margin: 4rem 0 2rem;
 }
 .skill-bars li {
   height: .4rem;
   background: #313131;
   width: 100%;
-  margin-bottom: 3rem;
+  margin-bottom: 4rem;
   padding: 0;
   position: relative;
 }
 .skill-bars li strong {
   position: absolute;
   left: 0;
-  top: -2rem;
+  top: -3rem;
   font-family: "Questrial", sans-serif;
   color: #a1a1a1;
   font-weight: bold;
