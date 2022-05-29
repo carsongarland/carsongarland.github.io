@@ -8,7 +8,7 @@ ul{margin-top: 10px;}
   margin: 6rem 0 3rem;
 }
 .skill-bars li {
-  height: .6rem;
+  height: .4rem;
   background: #313131;
   width: 100%;
   margin-bottom: 6rem;
@@ -19,11 +19,11 @@ ul{margin-top: 10px;}
   position: absolute;
   left: 0;
   top: -3rem;
-  font-family: "poppins-bold", sans-serif;
+  font-family: "Questrial", sans-serif;
   color: #a1a1a1;
-  text-transform: uppercase;
+  font-weight: bold;
   letter-spacing: .2rem;
-  font-size: 1.5rem;
+  font-size: 18px;
   line-height: 2.4rem;
 }
 .skill-bars li .progress {
@@ -36,9 +36,11 @@ ul{margin-top: 10px;}
   right: 0;
   top: -3.6rem;
   display: block;
-  font-family: "poppins-regular", sans-serif;
+  font-size: 18px;
+  font-family: "Questrial", sans-serif;
+  margin: 2vh 0px;
+  font-weight: bold;
   color: white;
-  font-size: 1.1rem;
   line-height: 1;
   background: #313131;
   padding: .6rem .6rem;
